@@ -9,11 +9,12 @@ $ cd Task-Tracker
 $ npm install
 
 //run the server
-$ npm run server (It will eun on http://localhost:5000)
+$ npm run server (It will run on 'http://localhost:5000')
 
 //run the app
 $ ng serve
-Navigate to `http://localhost:4200/`
+
+Navigate to 'http://localhost:4200/'
 
 ```
 ![image](https://user-images.githubusercontent.com/108678396/230785624-61b4e497-d445-4f3b-8c97-77f749b79218.png)
